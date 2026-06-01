@@ -1,0 +1,21 @@
+{
+  "ra_pin": 13,
+  "dec_pin": 18,
+  "go2_hw_ra_pin": 13,
+  "go2_hw_dec_pin": 18,
+  "pwm_chip": 0,
+  "ra_pwm_channel": 1,
+  "dec_pwm_channel": 0,
+  "ra_dir": 1,
+  "dec_dir": 1,
+  "ra_gain": 1.12,
+  "dec_gain": 1.12,
+  "go2_ra_scale": 9.0,
+  "go2_dec_scale": 8.5,
+  "goto_ra_scale": 10.0,
+  "goto_dec_scale": 10.0,
+  "go3_ra_scale": 9.0,
+  "go3_dec_scale": 8.5,
+  "min_pulse_sec": 0.0005,
+  "max_pulse_sec": 0.0025
+}
